@@ -4,6 +4,9 @@ void main() {
   runApp(MyApp());
 }
 
+  //Nombre: Dervin RANSIEL MENDEZ JIMENEZ
+  //Matricula: 2020-10715
+
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -78,8 +81,7 @@ class _LocationFormState extends State<LocationForm> {
         ),
       ),
     );
-  }     //Nombre: Dervin RANSIEL MENDEZ JIMENEZ
-        //Matricula: 2020-10715
+  }   
 
   @override
   void dispose() {
