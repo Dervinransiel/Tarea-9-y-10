@@ -78,7 +78,8 @@ class _LocationFormState extends State<LocationForm> {
         ),
       ),
     );
-  }
+  }     //Nombre: Dervin RANSIEL MENDEZ JIMENEZ
+        //Matricula: 2020-10715
 
   @override
   void dispose() {
@@ -88,4 +89,5 @@ class _LocationFormState extends State<LocationForm> {
     _longitudeController.dispose();
     super.dispose();
   }
-}
+}  
+
